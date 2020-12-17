@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills
+*Always looking to __learn__ New things*
+_easy contact_
+## Knowledge & diploma
+__Bachelor in applied mathematics__
+## Computer programming
+- Html 
+- Css
+- C
+- Matlab 
+- LaTeX
+- R & SaS
+- JavaScript
